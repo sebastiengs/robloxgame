@@ -7,6 +7,11 @@ Your game code is currently on one laptop. This guide has two parts:
 
 Take Part 1 slowly. Part 2 takes about five minutes per laptop after that.
 
+> **Shortcut:** if you have Claude Code on the laptop with the game code,
+> [`HANDOFF_PROMPT.md`](HANDOFF_PROMPT.md) has a prompt you can paste that does most of
+> Part 1 for you. You'll still want to read Steps 4 and 5 below, since those are the parts
+> only you can do.
+
 ---
 
 ## Before you start: install the tools

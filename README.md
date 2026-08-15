@@ -6,6 +6,10 @@ A Roblox game whose code lives on GitHub, so it can be worked on from any laptop
 through getting the game code that's currently on one laptop into this repo, then getting
 it back down on any other laptop.
 
+**Sitting at the laptop that has the code, with Claude Code open?** Use
+[`docs/HANDOFF_PROMPT.md`](docs/HANDOFF_PROMPT.md) — a prompt to paste that does most of
+Part 1 for you.
+
 ## How this works
 
 Roblox Studio normally keeps your game in Roblox's cloud, tied to whatever machine you

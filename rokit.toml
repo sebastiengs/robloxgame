@@ -1,0 +1,4 @@
+# Rokit pins the exact tool versions this project uses, so every laptop
+# you work on ends up with the same setup. Run `rokit install` after cloning.
+[tools]
+rojo = "rojo-rbx/rojo@7.5.1"

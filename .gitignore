@@ -1,0 +1,29 @@
+# Roblox place files built by Rojo — these are generated, don't commit them
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Roblox Studio lock/backup files
+*.rbxl.lock
+*.rbxlx.lock
+*.rbxl.bak
+*.rbxlx.bak
+
+# Toolchain / package manager
+/.rokit/
+/.foreman/
+/Packages/
+/ServerPackages/
+/DevPackages/
+/.wally/
+
+# Editor + OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
